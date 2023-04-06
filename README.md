@@ -1,1 +1,1 @@
-# ast-devops-asp-application
+# git-command-practice
